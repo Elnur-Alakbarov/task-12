@@ -1,0 +1,31 @@
+.text-item {
+  height: 552px;
+}
+.img-item {
+  height: 100%;
+  object-fit: cover;
+}
+.started-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  font-weight: 600;
+  width: 166px;
+  height: 53px;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  color: #4f86f9;
+}
+.carousel-caption {
+  margin-top: 100px;
+}
+.about-page {
+  width: 100%;
+  margin-top: 128px;
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
+  justify-content: center;
+}
